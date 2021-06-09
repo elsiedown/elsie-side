@@ -1,0 +1,16 @@
+{
+  "name": "elsie-side",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:elsiedown/elsie-side.git",
+  "author": "Elsie Down <elspethdown@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13"
+  },
+  "type" : "module",
+  "scripts": {
+    "dev": "npx nodemon"
+  }
+}
